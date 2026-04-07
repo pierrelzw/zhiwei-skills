@@ -1,0 +1,33 @@
+{
+  "name": "pierrelzw",
+  "owner": {
+    "name": "pierrelzw"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by pierrelzw"
+  },
+  "plugins": [
+    {
+      "name": "search-flights",
+      "source": {
+        "source": "github",
+        "repo": "pierrelzw/search-flights"
+      },
+      "description": "Search and compare flight prices across flexible date ranges using Google Flights — bilingual Chinese/English, multi-airport support",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/search-flights",
+      "license": "MIT",
+      "keywords": [
+        "flights",
+        "travel",
+        "google-flights",
+        "price-comparison",
+        "bilingual"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
