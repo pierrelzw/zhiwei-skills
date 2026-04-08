@@ -13,6 +13,7 @@ claude plugin marketplace add pierrelzw/zhiwei_skills
 | Plugin | Description | Version |
 |--------|-------------|---------|
 | [search-flights](https://github.com/pierrelzw/search-flights) | Search and compare flight prices across flexible date ranges using Google Flights — bilingual Chinese/English | 0.1.0 |
+| [mac-doctor](https://github.com/pierrelzw/mac-doctor) | macOS system doctor — system info, disk cleanup, and maintenance | 0.1.0 |
 
 ## Installing Plugins
 
