@@ -14,7 +14,7 @@
         "repo": "pierrelzw/search-flights"
       },
       "description": "Search and compare flight prices across flexible date ranges using Google Flights — bilingual Chinese/English, multi-airport support",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "pierrelzw"
       },
