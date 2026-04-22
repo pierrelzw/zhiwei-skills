@@ -51,6 +51,54 @@
         "diagnostics"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "bilingual-video-sub",
+      "source": {
+        "source": "github",
+        "repo": "pierrelzw/bilingual-video-sub"
+      },
+      "description": "Bilingual Chinese+English subtitle pipeline — YouTube/local video → EN SRT + ZH SRT + burned 720×1280 mp4",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/bilingual-video-sub",
+      "license": "MIT",
+      "keywords": [
+        "subtitles",
+        "video",
+        "whisper",
+        "translation",
+        "bilingual",
+        "ffmpeg"
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "smart-cut-monologue",
+      "source": {
+        "source": "github",
+        "repo": "pierrelzw/smart-cut-monologue"
+      },
+      "description": "Smart-cut monologue videos on Apple Silicon — mlx-qwen3-asr transcription + 剪映-style transcript-inline review UI + frame-accurate ffmpeg cut. Removes filler / repetition / pauses with human-in-the-loop review.",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/smart-cut-monologue",
+      "license": "MIT",
+      "keywords": [
+        "video",
+        "monologue",
+        "transcription",
+        "mlx",
+        "qwen3",
+        "ffmpeg",
+        "macos",
+        "apple-silicon"
+      ],
+      "category": "productivity"
     }
   ]
 }

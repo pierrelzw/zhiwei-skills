@@ -14,6 +14,8 @@ claude plugin marketplace add pierrelzw/zhiwei_skills
 |--------|-------------|---------|
 | [search-flights](https://github.com/pierrelzw/search-flights) | Search and compare flight prices across flexible date ranges using Google Flights — bilingual Chinese/English | 0.1.0 |
 | [mac-doctor](https://github.com/pierrelzw/mac-doctor) | macOS system doctor — system info, disk cleanup, and maintenance | 0.1.0 |
+| [bilingual-video-sub](https://github.com/pierrelzw/bilingual-video-sub) | Bilingual Chinese+English subtitle pipeline — video → EN/ZH SRT + burned mp4 | 0.1.0 |
+| [smart-cut-monologue](https://github.com/pierrelzw/smart-cut-monologue) | Smart-cut 口播 videos on Apple Silicon — mlx-qwen3-asr + 剪映-style review UI + ffmpeg | 0.1.0 |
 
 ## Installing Plugins
 
