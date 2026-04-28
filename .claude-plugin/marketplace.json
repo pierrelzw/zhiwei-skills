@@ -76,25 +76,28 @@
       "category": "productivity"
     },
     {
-      "name": "video-to-srt",
+      "name": "media-to-srt",
       "source": {
         "source": "github",
-        "repo": "pierrelzw/video-to-srt"
+        "repo": "pierrelzw/media-to-srt"
       },
-      "description": "Transcribe a video (URL or local file) into an SRT subtitle file using whisper.cpp — supports any yt-dlp-compatible platform (YouTube, Bilibili, 小红书, 抖音, Vimeo, Twitter/X, etc.)",
-      "version": "0.1.0",
+      "description": "Transcribe a video or audio file (URL or local) into an SRT subtitle file using whisper.cpp — supports any yt-dlp-compatible platform (YouTube, Bilibili, 小红书, 抖音, Vimeo, Twitter/X, etc.) plus local audio (mp3/m4a/wav/aac/flac)",
+      "version": "0.2.0",
       "author": {
         "name": "pierrelzw"
       },
-      "repository": "https://github.com/pierrelzw/video-to-srt",
+      "repository": "https://github.com/pierrelzw/media-to-srt",
       "license": "MIT",
       "keywords": [
         "video",
+        "audio",
         "subtitles",
         "srt",
         "whisper",
         "transcription",
-        "yt-dlp"
+        "yt-dlp",
+        "podcast",
+        "speech-to-text"
       ],
       "category": "productivity"
     },
