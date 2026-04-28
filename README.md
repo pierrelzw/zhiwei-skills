@@ -17,6 +17,7 @@ claude plugin marketplace add pierrelzw/zhiwei_skills
 | [bilingual-video-sub](https://github.com/pierrelzw/bilingual-video-sub) | Bilingual Chinese+English subtitle pipeline — video → EN/ZH SRT + burned mp4 | 0.1.0 |
 | [smart-cut-monologue](https://github.com/pierrelzw/smart-cut-monologue) | Smart-cut 口播 videos on Apple Silicon — mlx-qwen3-asr + 剪映-style review UI + ffmpeg | 0.1.0 |
 | [video-to-srt](https://github.com/pierrelzw/video-to-srt) | Transcribe video (URL or local) → SRT using whisper.cpp + yt-dlp (YouTube/Bilibili/小红书/抖音/...) | 0.1.0 |
+| [xiaoyuzhou-to-audio](https://github.com/pierrelzw/xiaoyuzhou-to-audio) | Download 小宇宙 podcast episodes to local .m4a via aria2c — up to 6 episodes in parallel | 0.1.0 |
 
 ## Installing Plugins
 
