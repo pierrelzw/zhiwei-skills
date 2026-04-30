@@ -148,6 +148,30 @@
         "apple-silicon"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "issue-workflow",
+      "source": {
+        "source": "github",
+        "repo": "pierrelzw/issue-workflow"
+      },
+      "description": "End-to-end GitHub issue workflow — preflight, plan with codex review, worktree, implement, verify, multi-reviewer pipeline, PR, CI, merge",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/issue-workflow",
+      "license": "MIT",
+      "keywords": [
+        "github",
+        "issue",
+        "workflow",
+        "worktree",
+        "pr",
+        "codex",
+        "review"
+      ],
+      "category": "productivity"
     }
   ]
 }
