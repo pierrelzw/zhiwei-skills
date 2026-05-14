@@ -27,7 +27,7 @@
         "price-comparison",
         "bilingual"
       ],
-      "category": "productivity"
+      "category": "travel"
     },
     {
       "name": "mac-doctor",
@@ -50,7 +50,7 @@
         "maintenance",
         "diagnostics"
       ],
-      "category": "productivity"
+      "category": "system"
     },
     {
       "name": "bilingual-video-sub",
@@ -73,7 +73,7 @@
         "bilingual",
         "ffmpeg"
       ],
-      "category": "productivity"
+      "category": "media-tools"
     },
     {
       "name": "media-to-srt",
@@ -103,7 +103,7 @@
         "doubao",
         "speaker-diarization"
       ],
-      "category": "productivity"
+      "category": "media-tools"
     },
     {
       "name": "xiaoyuzhou-to-audio",
@@ -126,7 +126,7 @@
         "download",
         "aria2c"
       ],
-      "category": "productivity"
+      "category": "media-tools"
     },
     {
       "name": "smart-cut-monologue",
@@ -135,7 +135,7 @@
         "repo": "pierrelzw/smart-cut-monologue"
       },
       "description": "Smart-cut monologue videos on Apple Silicon — mlx-qwen3-asr transcription + 剪映-style transcript-inline review UI + frame-accurate ffmpeg cut. Removes filler / repetition / pauses with human-in-the-loop review.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "pierrelzw"
       },
@@ -151,7 +151,7 @@
         "macos",
         "apple-silicon"
       ],
-      "category": "productivity"
+      "category": "media-tools"
     },
     {
       "name": "issue-workflow",
@@ -175,7 +175,7 @@
         "codex",
         "review"
       ],
-      "category": "productivity"
+      "category": "developer-tools"
     }
   ]
 }
