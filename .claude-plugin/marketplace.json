@@ -36,7 +36,7 @@
         "repo": "pierrelzw/mac-doctor"
       },
       "description": "macOS system doctor — system info, disk cleanup, and maintenance",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "pierrelzw"
       },
@@ -59,7 +59,7 @@
         "repo": "pierrelzw/bilingual-video-sub"
       },
       "description": "Bilingual Chinese+English subtitle pipeline — YouTube/local video → EN SRT + ZH SRT + burned 720×1280 mp4",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "pierrelzw"
       },
@@ -82,7 +82,7 @@
         "repo": "pierrelzw/media-to-srt"
       },
       "description": "Transcribe a video or audio file (URL or local) into an SRT subtitle file. Choose: fast Douban ASR (with speaker diarization) or local whisper.cpp (private). Supports YouTube, Bilibili, 小红书, 抖音, Vimeo, Twitter/X, and local files (mp3/m4a/wav/aac/flac/mp4/webm/ogg).",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "author": {
         "name": "pierrelzw"
       },
@@ -112,7 +112,7 @@
         "repo": "pierrelzw/xiaoyuzhou-to-audio"
       },
       "description": "Download Xiaoyuzhou (小宇宙) podcast episodes to local .m4a files using aria2c multi-connection download — up to 6 episodes in parallel",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "pierrelzw"
       },
