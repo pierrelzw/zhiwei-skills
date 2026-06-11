@@ -176,6 +176,31 @@
         "review"
       ],
       "category": "developer-tools"
+    },
+    {
+      "name": "time-report",
+      "source": {
+        "source": "github",
+        "repo": "pierrelzw/time-report"
+      },
+      "description": "Interactive HTML Gantt + token/cost report for Claude Code & Codex sessions",
+      "version": "3.4.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/time-report",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "codex",
+        "report",
+        "gantt",
+        "token-usage",
+        "cost",
+        "analytics",
+        "productivity"
+      ],
+      "category": "productivity"
     }
   ]
 }
