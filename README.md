@@ -19,7 +19,7 @@ claude plugin marketplace add pierrelzw/zhiwei_skills
 | [media-to-srt](https://github.com/pierrelzw/media-to-srt) | Transcribe video or audio (URL or local) → SRT using whisper.cpp + yt-dlp (YouTube/Bilibili/小红书/抖音/podcasts/voice memos/...) | 0.2.0 |
 | [xiaoyuzhou-to-audio](https://github.com/pierrelzw/xiaoyuzhou-to-audio) | Download 小宇宙 podcast episodes to local .m4a via aria2c — up to 6 episodes in parallel | 0.1.0 |
 | [issue-workflow](https://github.com/pierrelzw/issue-workflow) | End-to-end GitHub issue workflow — preflight → plan (codex review) → worktree → implement → verify → review → PR → CI → merge | 0.1.0 |
-| [time-report](https://github.com/pierrelzw/time-report) | Interactive HTML Gantt + token/cost report for Claude Code & Codex sessions | 3.4.0 |
+| [time-report](https://github.com/pierrelzw/time-report) | Interactive HTML Gantt + token/cost report for Claude Code & Codex sessions | 3.5.0 |
 
 ## Installing Plugins
 
