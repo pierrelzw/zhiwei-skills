@@ -184,7 +184,7 @@
         "repo": "pierrelzw/time-report"
       },
       "description": "Interactive HTML Gantt + token/cost report for Claude Code & Codex sessions",
-      "version": "3.4.0",
+      "version": "3.5.0",
       "author": {
         "name": "pierrelzw"
       },
@@ -201,6 +201,30 @@
         "productivity"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "voice-replace-tts",
+      "source": {
+        "source": "github",
+        "repo": "pierrelzw/voice-replace-tts"
+      },
+      "description": "Replace voice in audio using MiniMax TTS, with audio separation and precise timing alignment",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/voice-replace-tts",
+      "license": "MIT",
+      "keywords": [
+        "tts",
+        "voice-replacement",
+        "audio-processing",
+        "minimax",
+        "demucs",
+        "speech-synthesis",
+        "ffmpeg"
+      ],
+      "category": "media-tools"
     }
   ]
 }
