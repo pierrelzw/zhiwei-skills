@@ -225,6 +225,31 @@
         "ffmpeg"
       ],
       "category": "media-tools"
+    },
+    {
+      "name": "zhiwei-images",
+      "source": {
+        "source": "github",
+        "repo": "pierrelzw/zhiwei-images"
+      },
+      "description": "Generate WeChat/Xiaohongshu article covers and infographic series via the local Codex subscription (built-in image_gen / gpt-image-2, no API key)",
+      "version": "0.1.0",
+      "author": {
+        "name": "pierrelzw"
+      },
+      "repository": "https://github.com/pierrelzw/zhiwei-images",
+      "license": "MIT",
+      "keywords": [
+        "cover-image",
+        "xiaohongshu",
+        "xhs",
+        "infographic",
+        "image-generation",
+        "codex",
+        "gpt-image",
+        "wechat"
+      ],
+      "category": "productivity"
     }
   ]
 }
